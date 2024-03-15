@@ -1,0 +1,41 @@
+#Find your icons from here - https://fontawesome.com/icons?d=gallery&s=brands
+- name: YouTub
+  link: https://olympiadguru.github.io/
+  icon: fa-youtube
+  visibility: true
+- name: Instagram
+  link: https://olympiadguru.github.io/
+  icon: fa-instagram
+  visibility: true
+- name: Twitter
+  link: https://olympiadguru.github.io/
+  icon: fa-twitter
+  visibility: true
+- name: Telegram
+  link: https://olympiadguru.github.io/
+  icon: fa-telegram
+  visibility: true
+- name: Linkedin
+  link: https://www.linkedin.com/in/rollysanchez
+  icon: fa-linkedin
+  visibility: false
+- name: Medium
+  link: https://medium.com/
+  icon: fa-medium
+  visibility: false
+- name: Free Code Camp
+  link: https://www.freecodecamp.org
+  icon: fa-free-code-camp
+  visibility: false
+- name: Behance
+  link: https://www.behance.net
+  icon: fa-behance
+  visibility: false
+- name: Codepen
+  link: https://codepen.io
+  icon: fa-codepen
+  visibility: false
+- name: CTF Time
+  link: https://ctftime.org/team/134559
+  icon: fa-font-awesome-flag
+  visibility: false
